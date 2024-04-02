@@ -5,8 +5,8 @@ public class Homme extends Humain{
     		super(nom,prenom,age);
     	}
 
-	@Override
-    	public String toString() {
-        	return "Homme: " + super.toString();
-    	}
+	//@Override
+    	//public String toString() {
+        //	return "Homme: " + super.toString();
+    	//}
 }
